@@ -1,0 +1,34 @@
+html {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F05%2FBest-sky-wallpapers-hd.jpg&f=1&nofb=1&ipt=52e75517ca4275f2f25d59cdc2d35f5df0d28211c05218cb66a6691899e946e0&ipo=images");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+nav {
+    display: inline-block;
+    width: 100%;
+    backdrop-filter: blur(7px);
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul a {
+    margin-right: 100px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+body div {
+    margin-top: 50px;
+}
+
+body div div img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
